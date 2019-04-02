@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0edc59e1-a891-456e-91d8-4d5a2f1dc922" name="Default Changelist" comment="" />
+    <list default="true" id="0edc59e1-a891-456e-91d8-4d5a2f1dc922" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DAO/AbstractClassDAO.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,216 +13,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/objects/Customers.java">
+        <entry file="file://$PROJECT_DIR$/src/com/business/CustomerDAOImplement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/objects/VietnameseCustomers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/main/EInvoiceManagement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/business/CustomersManagement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="587" column="5" selection-start-line="587" selection-start-column="5" selection-end-line="587" selection-end-column="5" />
-              <folding>
-                <element signature="docComment;method#CustomersManagement#0;class#CustomersManagement#0" />
-                <element signature="method#CustomersManagement#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#getCustomersList#0;class#CustomersManagement#0" />
-                <element signature="method#setVietnameseCustomersList#0;class#CustomersManagement#0" />
-                <element signature="method#setForeignCustomersList#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#eInvoiceManagementProgram#0;class#CustomersManagement#0" />
-                <element signature="method#eInvoiceManagementProgram#0;class#CustomersManagement#0" />
-                <element signature="e#1943#3237#1" />
-                <element signature="e#2015#3135#0" />
-                <element signature="e#3165#3203#1" />
-                <element signature="docComment;method#addCustomer#0;class#CustomersManagement#0" />
-                <element signature="method#addCustomer#0;class#CustomersManagement#0" />
-                <element signature="e#3473#3884#1" />
-                <element signature="e#3890#4274#1" />
-                <element signature="docComment;method#enterVietnameseCustomerInformation#0;class#CustomersManagement#0" />
-                <element signature="method#enterVietnameseCustomerInformation#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#enterForeignCustomerInformation#0;class#CustomersManagement#0" />
-                <element signature="method#enterForeignCustomerInformation#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#enterCustomerName#0;class#CustomersManagement#0" />
-                <element signature="method#enterCustomerName#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#enterUnitPrice#0;class#CustomersManagement#0" />
-                <element signature="method#enterUnitPrice#0;class#CustomersManagement#0" />
-                <element signature="e#7072#7352#1" />
-                <element signature="e#7090#7211#0" />
-                <element signature="e#7233#7342#0" />
-                <element signature="docComment;method#enterUsedQuantity#0;class#CustomersManagement#0" />
-                <element signature="method#enterUsedQuantity#0;class#CustomersManagement#0" />
-                <element signature="e#7588#7895#1" />
-                <element signature="e#7606#7733#0" />
-                <element signature="e#7754#7885#0" />
-                <element signature="docComment;method#enterCustomerNationality#0;class#CustomersManagement#0" />
-                <element signature="method#enterCustomerNationality#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#enterQuota#0;class#CustomersManagement#0" />
-                <element signature="method#enterQuota#0;class#CustomersManagement#0" />
-                <element signature="e#8378#8639#1" />
-                <element signature="e#8396#8509#0" />
-                <element signature="e#8530#8629#0" />
-                <element signature="docComment;method#selectCustomerType#0;class#CustomersManagement#0" />
-                <element signature="method#selectCustomerType#0;class#CustomersManagement#0" />
-                <element signature="e#8919#9379#1" />
-                <element signature="e#8937#9235#0" />
-                <element signature="e#9093#9155#1" />
-                <element signature="e#9161#9221#1" />
-                <element signature="e#9256#9369#0" />
-                <element signature="docComment;method#enterInvoiceDate#0;class#CustomersManagement#0" />
-                <element signature="method#enterInvoiceDate#0;class#CustomersManagement#0" />
-                <element signature="e#9628#10399#1" />
-                <element signature="e#9646#10230#0" />
-                <element signature="e#10070#10148#1" />
-                <element signature="e#10154#10216#1" />
-                <element signature="e#10251#10389#0" />
-                <element signature="docComment;method#enterDate#0;class#CustomersManagement#0" />
-                <element signature="method#enterDate#0;class#CustomersManagement#0" />
-                <element signature="e#10575#11314#1" />
-                <element signature="e#10593#11153#0" />
-                <element signature="e#10993#11071#1" />
-                <element signature="e#11077#11139#1" />
-                <element signature="e#11174#11304#0" />
-                <element signature="docComment;method#enterDay#0;class#CustomersManagement#0" />
-                <element signature="method#enterDay#0;class#CustomersManagement#0" />
-                <element signature="e#11448#11833#1" />
-                <element signature="e#11466#11707#0" />
-                <element signature="e#11574#11636#1" />
-                <element signature="e#11642#11693#1" />
-                <element signature="e#11728#11823#0" />
-                <element signature="docComment;method#enterMonth#0;class#CustomersManagement#0" />
-                <element signature="method#enterMonth#0;class#CustomersManagement#0" />
-                <element signature="e#11973#12370#1" />
-                <element signature="e#11991#12240#0" />
-                <element signature="e#12105#12167#1" />
-                <element signature="e#12173#12226#1" />
-                <element signature="e#12261#12360#0" />
-                <element signature="docComment;method#enterYear#0;class#CustomersManagement#0" />
-                <element signature="method#enterYear#0;class#CustomersManagement#0" />
-                <element signature="e#12508#12938#1" />
-                <element signature="e#12526#12810#0" />
-                <element signature="e#12676#12738#1" />
-                <element signature="e#12744#12796#1" />
-                <element signature="e#12831#12928#0" />
-                <element signature="docComment;method#getTotalQuantityOFEachCustomerType#0;class#CustomersManagement#0" />
-                <element signature="method#getTotalQuantityOFEachCustomerType#0;class#CustomersManagement#0" />
-                <element signature="e#13378#15192#1" />
-                <element signature="e#13396#15054#0" />
-                <element signature="e#13641#13844#1" />
-                <element signature="e#14008#14199#1" />
-                <element signature="e#14234#14429#1" />
-                <element signature="e#14452#14644#1" />
-                <element signature="e#14667#14972#1" />
-                <element signature="e#14978#15040#1" />
-                <element signature="e#15075#15181#0" />
-                <element signature="docComment;method#getAveragePaymentOfForeigners#0;class#CustomersManagement#0" />
-                <element signature="method#getAveragePaymentOfForeigners#0;class#CustomersManagement#0" />
-                <element signature="e#15436#15995#0" />
-                <element signature="e#15591#15985#1" />
-                <element signature="e#15793#15903#1" />
-                <element signature="e#15909#15971#1" />
-                <element signature="e#16016#16161#0" />
-                <element signature="docComment;method#showListOfCustomers#0;class#CustomersManagement#0" />
-                <element signature="method#showListOfCustomers#0;class#CustomersManagement#0" />
-                <element signature="e#16673#18192#1" />
-                <element signature="e#16691#18056#0" />
-                <element signature="e#16797#17143#1" />
-                <element signature="e#16969#17098#1" />
-                <element signature="e#17167#17567#1" />
-                <element signature="e#17382#17522#1" />
-                <element signature="e#17591#17974#1" />
-                <element signature="e#17792#17929#1" />
-                <element signature="e#17980#18042#1" />
-                <element signature="e#18077#18182#0" />
-                <element signature="docComment;method#showListOfCustomersByYearAndMonth#0;class#CustomersManagement#0" />
-                <element signature="method#showListOfCustomersByYearAndMonth#0;class#CustomersManagement#0" />
-                <element signature="e#18391#18484#1" />
-                <element signature="docComment;method#showListOfOverQuotaCustomer#0;class#CustomersManagement#0" />
-                <element signature="method#showListOfOverQuotaCustomer#0;class#CustomersManagement#0" />
-                <element signature="e#18784#19800#1" />
-                <element signature="e#18802#19311#0" />
-                <element signature="e#18977#19297#1" />
-                <element signature="e#19173#19279#1" />
-                <element signature="e#19332#19384#0" />
-                <element signature="e#19393#19789#0" />
-                <element signature="e#19631#19752#1" />
-                <element signature="docComment;method#showCustomerListByDateRange#0;class#CustomersManagement#0" />
-                <element signature="method#showCustomerListByDateRange#0;class#CustomersManagement#0" />
-                <element signature="e#20320#21288#1" />
-                <element signature="e#20338#20837#0" />
-                <element signature="e#20474#20823#1" />
-                <element signature="e#20717#20805#1" />
-                <element signature="e#20858#20910#0" />
-                <element signature="e#20919#21278#0" />
-                <element signature="e#21130#21241#1" />
-                <element signature="method#checkDateBetweenRange#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#getCustomersByYearAndMonth#0;class#CustomersManagement#0" />
-                <element signature="method#getCustomersByYearAndMonth#0;class#CustomersManagement#0" />
-                <element signature="e#22016#22818#1" />
-                <element signature="e#22034#22507#0" />
-                <element signature="e#22170#22493#1" />
-                <element signature="e#22385#22475#1" />
-                <element signature="e#22528#22580#0" />
-                <element signature="e#22589#22808#0" />
-                <element signature="docComment;method#frameResult#0;class#CustomersManagement#0" />
-                <element signature="method#frameResult#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#frameHeader#0;class#CustomersManagement#0" />
-                <element signature="method#frameHeader#0;class#CustomersManagement#0" />
-                <element signature="docComment;method#showMenu#0;class#CustomersManagement#0" />
-                <element signature="method#showMenu#0;class#CustomersManagement#0" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/business/CustomerDAOImplement.java">
+        <entry file="file://$PROJECT_DIR$/src/com/main/EInvoiceManagement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-              <folding>
-                <element signature="docComment;class#CustomerDAOImplement#0" />
-                <element signature="docComment;method#addCustomerToFile#0;class#CustomerDAOImplement#0" />
-                <element signature="docComment;method#addForeignCustomerToFile#0;class#CustomerDAOImplement#0" />
-                <element signature="method#addForeignCustomerToFile#0;class#CustomerDAOImplement#0" />
-                <element signature="docComment;method#readCustomerList#0;class#CustomerDAOImplement#0" />
-                <element signature="docComment;method#readVietnameseCustomerList#0;class#CustomerDAOImplement#0" />
-                <element signature="method#readVietnameseCustomerList#0;class#CustomerDAOImplement#0" />
-                <element signature="docComment;method#readForeignCustomerList#0;class#CustomerDAOImplement#0" />
-                <element signature="method#readForeignCustomerList#0;class#CustomerDAOImplement#0" />
-                <element signature="docComment;method#closeStream#0;class#CustomerDAOImplement#0" />
-                <element signature="method#closeStream#0;class#CustomerDAOImplement#0" />
-                <element signature="docComment;method#closeStream#1;class#CustomerDAOImplement#0" />
-                <element signature="method#closeStream#1;class#CustomerDAOImplement#0" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -238,6 +46,9 @@
       <find>foreign customer</find>
       <find>list of</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -273,58 +84,51 @@
         <subPane>
           <expand>
             <path>
-              <item name="EInvoiceManagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EInvoiceManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="GitTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitTraining" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EInvoiceManagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EInvoiceManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="GitTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EInvoiceManagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EInvoiceManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="GitTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EInvoiceManagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EInvoiceManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="GitTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="business" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EInvoiceManagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EInvoiceManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="GitTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="DAO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EInvoiceManagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EInvoiceManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="GitTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EInvoiceManagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EInvoiceManagement" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="objects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554189033958" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554198527194" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
@@ -397,10 +201,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-145" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.30559757" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" visible="true" weight="0.30559757" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,16 +278,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/DAO/TempCustomersDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DAO/TempCustomersDAO.java" />
     <entry file="file://$PROJECT_DIR$/src/com/objects/VietnameseCustomers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -494,91 +289,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/EInvoiceManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/business/TempCustomersManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="method#TempCustomersManagement#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#eInvoiceManagementProgram#0;class#TempCustomersManagement#0" />
-            <element signature="method#eInvoiceManagementProgram#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterVietnameseCustomerInformation#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterVietnameseCustomerInformation#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterForeignCustomerInformation#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterForeignCustomerInformation#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterCustomerName#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterCustomerName#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterUnitPrice#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterUnitPrice#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterUsedQuantity#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterUsedQuantity#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterCustomerNationality#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterCustomerNationality#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterQuota#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterQuota#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#selectCustomerType#0;class#TempCustomersManagement#0" />
-            <element signature="method#selectCustomerType#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterInvoiceDate#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterInvoiceDate#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterDate#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterDate#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterDay#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterDay#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterMonth#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterMonth#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#enterYear#0;class#TempCustomersManagement#0" />
-            <element signature="method#enterYear#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#getTotalQuantityOFEachCustomerType#0;class#TempCustomersManagement#0" />
-            <element signature="method#getTotalQuantityOFEachCustomerType#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#getAveragePaymentOfForeigners#0;class#TempCustomersManagement#0" />
-            <element signature="method#getAveragePaymentOfForeigners#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#showListOfCustomers#0;class#TempCustomersManagement#0" />
-            <element signature="method#showListOfCustomers#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#showListOfCustomersByYearAndMonth#0;class#TempCustomersManagement#0" />
-            <element signature="method#showListOfCustomersByYearAndMonth#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#showListOfOverQuotaCustomer#0;class#TempCustomersManagement#0" />
-            <element signature="method#showListOfOverQuotaCustomer#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#showCustomerListByDateRange#0;class#TempCustomersManagement#0" />
-            <element signature="method#showCustomerListByDateRange#0;class#TempCustomersManagement#0" />
-            <element signature="method#checkDateBetweenRange#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#getCustomersByYearAndMonth#0;class#TempCustomersManagement#0" />
-            <element signature="method#getCustomersByYearAndMonth#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#frameResult#0;class#TempCustomersManagement#0" />
-            <element signature="method#frameResult#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#frameHeader#0;class#TempCustomersManagement#0" />
-            <element signature="method#frameHeader#0;class#TempCustomersManagement#0" />
-            <element signature="docComment;method#showMenu#0;class#TempCustomersManagement#0" />
-            <element signature="method#showMenu#0;class#TempCustomersManagement#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/business/TempCustomersDAOImplement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#readForeignCustomerList#0;class#TempCustomersDAOImplement#0" />
-            <element signature="method#readForeignCustomerList#0;class#TempCustomersDAOImplement#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/TempEInvoiceManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/business/TempCustomersManagement.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/business/TempCustomersDAOImplement.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/main/TempEInvoiceManagement.java" />
     <entry file="file://$PROJECT_DIR$/src/com/objects/Customers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-85">
@@ -745,23 +458,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/business/CustomerDAOImplement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-          <folding>
-            <element signature="docComment;class#CustomerDAOImplement#0" />
-            <element signature="docComment;method#addCustomerToFile#0;class#CustomerDAOImplement#0" />
-            <element signature="docComment;method#addForeignCustomerToFile#0;class#CustomerDAOImplement#0" />
-            <element signature="method#addForeignCustomerToFile#0;class#CustomerDAOImplement#0" />
-            <element signature="docComment;method#readCustomerList#0;class#CustomerDAOImplement#0" />
-            <element signature="docComment;method#readVietnameseCustomerList#0;class#CustomerDAOImplement#0" />
-            <element signature="method#readVietnameseCustomerList#0;class#CustomerDAOImplement#0" />
-            <element signature="docComment;method#readForeignCustomerList#0;class#CustomerDAOImplement#0" />
-            <element signature="method#readForeignCustomerList#0;class#CustomerDAOImplement#0" />
-            <element signature="docComment;method#closeStream#0;class#CustomerDAOImplement#0" />
-            <element signature="method#closeStream#0;class#CustomerDAOImplement#0" />
-            <element signature="docComment;method#closeStream#1;class#CustomerDAOImplement#0" />
-            <element signature="method#closeStream#1;class#CustomerDAOImplement#0" />
-          </folding>
+        <state relative-caret-position="442">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DAO/AbstractClassDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/main/EInvoiceManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
